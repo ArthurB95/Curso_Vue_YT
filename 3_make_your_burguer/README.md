@@ -1,19 +1,13 @@
 # 3_make_your_burguer
 
-## Project setup
+## Fazer o projeto rodar
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm run serve
 ```
 
-### Compiles and minifies for production
+### Fazer o backend rodar
 ```
-yarn build
+npm run backend
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p>Necessário abrir em dois terminais. Recomendado utilizar a IDE VS Code.</p>
